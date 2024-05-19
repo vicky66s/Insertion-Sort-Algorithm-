@@ -1,4 +1,5 @@
 function sorted_array = insertionSort(array)
+
     n = length(array);
     for i = 2:n
         key = array(i);
