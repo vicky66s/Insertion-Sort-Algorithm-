@@ -1,3 +1,4 @@
+% 00000000000000
 function sorted_array = insertionSort(array)
     n = length(array);
     for i = 2 : n
@@ -11,4 +12,4 @@ function sorted_array = insertionSort(array)
     end
     sorted_array = array;
 end
-%00000000000000
+
